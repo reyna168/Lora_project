@@ -73,3 +73,20 @@ https://tencentcloud.csdn.net/6614a4b89c80ea0d226b1c4d.html?dp_token=eyJ0eXAiOiJ
 
 滿血版的資料
 https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN/tree/master/Guide
+
+
+一部曲對稱及非對稱
+https://blog.csdn.net/weixin_45116099/article/details/136682407
+
+二部曲校正模型壓縮後
+
+
+訓練後的模型壓縮
+https://blog.csdn.net/star_nwe/article/details/141564756?spm=1001.2101.3001.6650.5&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ECtr-5-141564756-blog-136685937.235%5Ev43%5Epc_blog_bottom_relevance_base2&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ECtr-5-141564756-blog-136685937.235%5Ev43%5Epc_blog_bottom_relevance_base2&utm_relevant_index=9
+
+
+
+模型由flot 32bit變為int 8bit 模型縮小，損失不變且lose不變，重新訓練，適用於規格等級不高的硬體
+
+
+https://colab.research.google.com/drive/1oDfcLRz2AIgsclkXJHj-5wMvbylr4Nxz#scrollTo=QeYlzGG0t4Yp
